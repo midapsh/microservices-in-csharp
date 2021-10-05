@@ -11,7 +11,7 @@ namespace PlatformService.Models
         [Required]
         public string Name { get; set; }
         [Required]
-        public string Publish { get; set; }
+        public string Publisher { get; set; }
         [Required]
         public string Cost { get; set; }
     }
